@@ -1,6 +1,6 @@
 # Testing 
 
-### Test pyramiden.
+### Testing pyramid
 
 Der findes mange forskellige test pyramider. 
 
@@ -62,9 +62,9 @@ Risikomitigering - hvordan mitigerer vi de risiko der er forbundet med produktet
 risiko for forretningen og IT-sikkerhed og data sikkerhed 
 ```
 
-
 nødplaner hvis noget går galt
 
-
+Test strategi er guidelines som man følger osv.
+Test Plan er scope af testing defineret og tidsplaner for test er nedskrevet. 
 
 oooo..
