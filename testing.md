@@ -42,4 +42,24 @@ risikoanalyse
 
 backup af test data, samt restore strategy (versionsstyring og redundans ift database)
 
+### Testing tools 
 
+automatisering og er det open source ller kommercielle værktøjer.
+
+### Release Control
+
+versionering osv 
+devops osv 
+Det er en del af test strategi.
+skal det deployes til skyen eller afleveres på floppy disc.
+
+### Risk analysis
+
+Esimering af risiko - det kunne være med en numerisk værdi (arbitrær).
+
+Risikomitigering - hvordan mitigerer vi de risiko der er forbundet med produktet. 
+
+
+
+
+oooo..
