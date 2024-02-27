@@ -58,7 +58,12 @@ skal det deployes til skyen eller afleveres på floppy disc.
 Esimering af risiko - det kunne være med en numerisk værdi (arbitrær).
 
 Risikomitigering - hvordan mitigerer vi de risiko der er forbundet med produktet. 
+```bash
+risiko for forretningen og IT-sikkerhed og data sikkerhed 
+```
 
+
+nødplaner hvis noget går galt
 
 
 
