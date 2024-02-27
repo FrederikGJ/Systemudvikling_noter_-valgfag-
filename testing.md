@@ -34,4 +34,12 @@ Automatiske værktøjer til unit test osv samt anvendelse af disse i versionssty
 
 Regression Testing er al test vi har lavet gennem tidne. Det indebærer at man tester alle gamle test hver gang man tilføjer en ny feature. 
 
+### Testing environment 
+
+Så tæt på den virkelige verden som muligt. 
+
+risikoanalyse
+
+backup af test data, samt restore strategy (versionsstyring og redundans ift database)
+
 
