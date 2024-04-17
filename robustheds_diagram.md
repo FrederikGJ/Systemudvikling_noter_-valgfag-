@@ -39,4 +39,6 @@ controllere kan kalde hinanden.
 
 SCRUM masters skal mødes og sikre ensartethed i koden. Altså i forhold til variabel og objektnavne osv.
 
+## Vi skal huske korrekt format i tegnignerne
 
+Der skal streg under entiteterne, der skal lodret linje på boundary objekter og selv-pegende-pil på controllers.
