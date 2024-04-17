@@ -35,5 +35,8 @@ aktør -> boundary object -> controller -> entity object
 altså når man skal tegene diagrammet. 
 controllere kan kalde hinanden. 
 
+## SCRUM masterne i vores projekter
+
+SCRUM masters skal mødes og sikre ensartethed i koden. Altså i forhold til variabel og objektnavne osv.
 
 
