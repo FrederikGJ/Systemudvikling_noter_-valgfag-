@@ -8,4 +8,6 @@ Jeg tager kontakt til de andre der er Scrum MAster fra hold A, sådan at jeg kan
 
 Jeg kigger vores Taiga igennem og læser User Stories.
 
+Mit hold af udviklere består af Signe, Natasja og Veronika. 
+
 
