@@ -10,4 +10,15 @@ Jeg kigger vores Taiga igennem og læser User Stories.
 
 Mit hold af udviklere består af Signe, Natasja og Veronika. 
 
+### 1 maj 2024 - onsdag 
+
+Vi har Scrum Poker og der bliver tildelt user stories til de forskellige teams. 
+
+Mit team har US 18, som omhandler funktionalitet for manager profilerne. 
+
+Jeg har det "issue" (altså en opgave), at lave et github repo, at lave et github repo, hvor vi skal udvikle den applikation som hold B har bedt os om. 
+
+Her mangler jeg blot at invitere alle fra mit hold. Så er den i vinkel. 
+
+
 
