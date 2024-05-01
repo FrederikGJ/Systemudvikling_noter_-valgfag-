@@ -20,4 +20,4 @@ Jeg har det "issue" (altså en opgave), at lave et github repo, at lave et githu
 
 Her mangler jeg blot at invitere alle fra mit hold. Så er den i vinkel. 
 
-
+Internt på vores hold har vi et kanban board i Trello. For at alle internt i teamet har et overblik over hvad der skal gøres.  
