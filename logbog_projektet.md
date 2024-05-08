@@ -22,4 +22,4 @@ Her mangler jeg blot at invitere alle fra mit hold. Så er den i vinkel.
 
 Internt på vores hold har vi et kanban board i Trello. For at alle internt i teamet har et overblik over hvad der skal gøres.  
 
-## Vi har en fælles logbog i google docs, hvor hele gruppen skriver refleksioner.
+## Vi er gået over til en fælles logbog i google docs, hvor hele gruppen skriver refleksioner.
