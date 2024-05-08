@@ -9,5 +9,4 @@
 - perspektivering ift andre agile metoder (og agile manifesto og extreme programming)
 
 ### Hvad gik godt og hvad kan gøres bedre til en anden gang? 
-- Gennemgå alle skridt i processen med gode/dårlige oplevelser
-- lav dette som en dataframe
+- Gennemgå alle skridt i processen med gode/dårlige oplevelser -> lav det som en dataframe
