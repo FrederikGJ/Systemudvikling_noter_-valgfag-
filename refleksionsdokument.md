@@ -10,4 +10,4 @@
 
 ### Hvad gik godt og hvad kan gøres bedre til en anden gang? 
 - Gennemgå alle skridt i processen med gode/dårlige oplevelser
-
+- lav dette som en dataframe
