@@ -10,3 +10,9 @@
 
 ### Hvad gik godt og hvad kan gøres bedre til en anden gang? 
 - Gennemgå alle skridt i processen med gode/dårlige oplevelser -> lav det som en dataframe
+
+### Brug billeder
+- Jeg har billeder liggende i mappen som skal tilføjes det endelige refleksionsdokument. 
+- Her er det vigtigt at jeg indrager det visuelle i min fortælling omrking forløbet. 
+
+
