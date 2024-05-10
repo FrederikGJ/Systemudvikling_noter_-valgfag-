@@ -18,7 +18,9 @@
 ### Referencer 
 - power i projekt og portefølje DJØF bog
 - Applying UML and Patterns 
-- SCRUM ??? websiden ???
 - Adaptive Code
 - Software Engineering: a practitioners approach
+- SCRUM ??? websiden ???
+- Agile Manifesto 
+- 12 principper fra XP
 
