@@ -15,4 +15,10 @@
 - Jeg har billeder liggende i mappen som skal tilføjes det endelige refleksionsdokument. 
 - Her er det vigtigt at jeg indrager det visuelle i min fortælling omrking forløbet. 
 
+### Referencer 
+- power i projekt og portefølje DJØF bog
+- Applying UML and Patterns 
+- SCRUM ??? websiden ???
+- Adaptive Code
+- Software Engineering: a practitioners approach
 
