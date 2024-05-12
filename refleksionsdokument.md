@@ -3,6 +3,9 @@
 - Systemudvikling forår 2024 
 - Projektet Generisk Vagtplan
 
+## Noter fra underviseren - Hvad er refleksion
+https://cphbusiness.mrooms.net/mod/page/view.php?id=693354
+
 ### jeg skal beskrive de forskellige processer i scrum og hvordan vi konkret har håndteret dem i dette projekt 
 - start med projekttrekanten 
 - herefter scrum 
