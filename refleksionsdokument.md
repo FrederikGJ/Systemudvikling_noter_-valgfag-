@@ -26,4 +26,5 @@ https://cphbusiness.mrooms.net/mod/page/view.php?id=693354
 - SCRUM ??? websiden ???
 - Agile Manifesto 
 - 12 principper fra XP
+- gurkin agurk tdd til java
 
