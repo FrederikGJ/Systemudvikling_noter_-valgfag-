@@ -11,6 +11,9 @@ https://cphbusiness.mrooms.net/mod/page/view.php?id=693354
 - herefter scrum 
 - perspektivering ift andre agile metoder (og agile manifesto og extreme programming)
 
+### jeg skal ikke være leder - bare scrum master
+- Kim har fortalt mig, at jeg godt kan lade ansvaret ligge. 
+
 ### Hvad gik godt og hvad kan gøres bedre til en anden gang? 
 - Gennemgå alle skridt i processen med gode/dårlige oplevelser -> lav det som en dataframe
 
